@@ -5,17 +5,17 @@ This is a VST Plugin built using the JUCE Framework (which is written in C++).  
 Versions:
 -------------------------------------------------------
 V1.0: 
-      -Changed VST title for personal project.
-      -Relabeled "Input Gain" to "Gain" and "Output 
+      1. Changed VST title for personal project.
+      2. Relabeled "Input Gain" to "Gain" and "Output 
       Gain" to "Volume" to create controls more 
       familiar to a guitar pedal
-      -For Distortion, added custom waveshaping 
+      3. For Distortion, added custom waveshaping 
       function "Custom function 1" which produces 
       a more traditional distortion effect.
-      -For Distortion, added custom waveshaping 
+      4. For Distortion, added custom waveshaping 
       function "Custom function 2" which produces a 
       more aggressive distortion effect.
-      -For Distortion, added custom waveshaping 
+      5. For Distortion, added custom waveshaping 
       function "Custom function 3" which produces a 
       square wave, fuzz-like effect.
 
