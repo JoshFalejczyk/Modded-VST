@@ -5,6 +5,7 @@ This is a VST Plugin built using the JUCE Framework (which is written in C++).  
 Versions:
 -------------------------------------------------------
 V1.0: 
+
       1. Changed VST title for personal project.
       2. Relabeled "Input Gain" to "Gain" and "Output 
       Gain" to "Volume" to create controls more 
