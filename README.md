@@ -19,6 +19,6 @@ Inside the repository, you'll find the the Source folder containing all main sou
 
 Credit: 
 -
--Any code not listed in the changes log has been written and provided by JUCE.  As seen in the license commented out in the source code, my modifications are within the copyright regulations on the example VST.
+-Any code not listed in the changes log has been provided, owned, and written by JUCE.  As seen in the license commented out in the source code, my modifications are within the copyright regulations on the example VST.
 
 -Any code listed in the changes log is of my own work.
