@@ -10,7 +10,7 @@ V1.0:
       2. Relabeled "Input Gain" to "Gain" and "Output Gain" to "Volume" to create controls more familiar to a guitar pedal
       3. For Distortion, added custom waveshaping function "Custom function 1" which produces a more traditional distortion effect.
       4. For Distortion, added custom waveshaping function "Custom function 2" which produces a more aggressive distortion effect.
-      5. For Distortion, added custom waveshaping function "Custom function 3" which produces a square wave, fuzz-like effect.
+      5. For Distortion, added custom waveshaping function "Custom function 3" which produces a square wave, fuzz-like effect (still needs some work).
 
 Instructions:
 -
