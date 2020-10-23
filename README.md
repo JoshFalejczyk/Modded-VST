@@ -20,8 +20,12 @@ V1.0:
       function "Custom function 3" which produces a 
       square wave, fuzz-like effect.
 
+Instructions:
+-
+
 Inside the repository, you'll find the the Source folder containing all main source code.  Unfortunately due to GitHub's 100mb file upload limit, I could not include the files related to the JUCE project structure, or all the dependencies from JUCE's header library.  But hypothetically speaking, should one have JUCE downloaded, they can just take the source code from this repository and put it into a blank project of their own.  Additionally, inside the Plugin folder, the latest version of the VST in both a standalone and VST3 format are available to demo.  While I intend on focusing mainly on the distortion effect of the plugin at the moment, the base example provides multiple effects to potentially modify.  Overall though, this project was quite fun to start and I am excited for future mods and updates.
 
 Credit: 
+-
 -Any code not listed in the changes log has been written and provided by JUCE.  As seen in the license commented out in the source code, my modifications are within the copyright regulations on the example VST.
 -Any code listed in the changes log is of my own work.
